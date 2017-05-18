@@ -1,0 +1,34 @@
+head, body {
+	font-family: Century Gothic;
+	background: url("https://s-media-cache-ak0.pinimg.com/736x/64/b6/30/64b630ce8d68c30a1690cc8b1341577e.jpg");
+    background-size: 250px 250px;
+}
+
+h1, h2 {
+	color: Firebrick;
+}
+
+table, button {
+	font-family: Century Gothic;
+	background-color: Ivory;
+}
+
+.list {
+    width: 180px;
+}
+
+.fields {
+	width: 400px;
+}
+
+.list, .fields {
+	/*margin: 10px auto 15px;*/
+    text-align: left;
+	/*background: rgba(255, 255, 255, 0.6);*/
+}
+
+div {
+	width: 550px;
+	margin: 10px auto 15px;
+	background: rgba(255, 255, 255, 0.6);
+}
